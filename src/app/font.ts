@@ -1,4 +1,4 @@
-import { Inter } from "next/font/google";
+import { Inter, Shantell_Sans } from "next/font/google";
 
 export const inter = Inter({
   subsets: ["latin"],
