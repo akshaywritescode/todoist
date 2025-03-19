@@ -5,7 +5,7 @@ import ClientTemplateImage from "@/app/assets/client-management-light.png"
 import DeepWorkTemplateImage from "@/app/assets/deep-work.png"
 import MeetingTemplateImage from "@/app/assets/meeting-agenda.png"
 import Image from "next/image";
-import { ListEndIcon, NotebookText } from "lucide-react";
+import { NotebookText } from "lucide-react";
 
 
 const TemplatesData = [
