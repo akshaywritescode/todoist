@@ -6,3 +6,10 @@ export const inter = Inter({
   style: ["normal", "italic"],
   display: "swap",
 });
+
+export const shantell = Shantell_Sans({
+  subsets: ["latin"],
+  weight: ["400"],
+  style: ["normal", "italic"],
+  display: "swap",
+});
